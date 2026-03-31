@@ -96,29 +96,24 @@ status     : Open to Opportunities ✅
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rancy11&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9" height="170"/>
-<img src="https://streak-stats.demolab.com/?user=Rancy11&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=bc8cff&fire=ff7b72&currStreakLabel=58a6ff" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=Rancy11&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=bc8cff&fire=ff7b72&currStreakLabel=58a6ff" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rancy11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rancy11&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rancy11&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rancy11&theme=tokyonight" />
 
 </div>
-
 ---
 
 ## 📅 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rancy11&bg_color=0d1117&color=58a6ff&line=bc8cff&point=ff7b72&area=true&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rancy11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
 </div>
 
 ---
