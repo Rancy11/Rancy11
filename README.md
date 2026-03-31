@@ -1,21 +1,143 @@
-# 💫 About Me:
-🤝 I'm looking to collaborate on full-stack or AI-based projects.<br>💬 Ask me about React, MongoDB, and hackathon ideas.<br>🧠 I'm looking for help with Java and database optimization.<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:bc8cff&height=200&section=header&text=Hi,%20I'm%20Rancy%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CSE%20Undergraduate%20%7C%20Builder&descAlignY=58&descColor=a0c4ff" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rancy-66105a293) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:grancy.arg@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rancy11&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rancy11&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rancy11&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+AWS;Problem+Solver+%7C+DSA+Enthusiast;Building+Scalable+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rancy11&theme=gruvbox_light&no-frame=true&no-bg=true&margin-w=4)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rancy-66105a293)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grancy.arg@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rancy11)
+[![Profile Views](https://komarev.com/ghpvc/?username=Rancy11&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/Rancy11)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rancy11&icon=3&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+```yaml
+name       : Rancy
+role       : Aspiring Full Stack Developer
+education  : CSE Undergraduate
+focus      : Java · Spring Boot · Backend Systems
+exploring  : AWS · Docker · Cloud Architecture
+passion    : Data Structures & Algorithms
+email      : grancy.arg@gmail.com
+phone      : +91 98775 01127
+status     : Open to Opportunities ✅
+```
+
+---
+
+## 🚀 Featured Project
+
+<table>
+  <tr>
+    <td width="60%">
+      <h3>🔹 DevFlow</h3>
+      <p>A full-stack developer productivity platform for managing projects, tasks, and team workflows with Kanban-style boards.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td width="40%">
+      <ul>
+        <li>📋 Kanban boards — <code>TODO → IN_PROGRESS → DONE</code></li>
+        <li>👥 Team invites via <strong>Resend</strong> email API</li>
+        <li>🔐 JWT auth + bcrypt password hashing</li>
+        <li>🐳 Fully containerized with Docker Compose</li>
+        <li>📊 Analytics & per-project task tracking</li>
+        <li>📝 Personal private task list</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Web & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rancy11&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=Rancy11&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=bc8cff&fire=ff7b72&currStreakLabel=58a6ff" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rancy11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="150"/>
+
+</div>
+
+---
+
+## 📅 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rancy11&bg_color=0d1117&color=58a6ff&line=bc8cff&point=ff7b72&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rancy11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+| Platform | Link |
+|:---:|:---:|
+| 💼 LinkedIn | [rancy-66105a293](https://linkedin.com/in/rancy-66105a293) |
+| 📧 Email | [grancy.arg@gmail.com](mailto:grancy.arg@gmail.com) |
+| 📱 Phone | +91 98775 01127 |
+| 🐙 GitHub | [Rancy11](https://github.com/Rancy11) |
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bc8cff,100:58a6ff&height=100&section=footer" />
+</div>
